@@ -1,0 +1,23 @@
+
+# /
+/*.vssscc
+/$tf
+/.vs
+/.svn
+/Snowbird.v11.suo
+/Snowbird.v12.suo
+/*.vsp
+/*.psess
+/Output-Build.txt
+/packages
+/TestResults
+authors-transform.txt
+.vscode/settings.json
+*.Cache
+# User-specific files
+*.suo
+*.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
